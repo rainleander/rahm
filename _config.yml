@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 
 title: Equinix Private LTE Gateway
 description: The LTE Gateway Portal
+
+show_downloads: ["false"]
