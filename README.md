@@ -15,9 +15,6 @@
     
 ## Important Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 <table width="100%"><tr><td>Submitted Date October 13, 2020 13:34 GMT<br>
   Renew certificate for: SIM# 1254<br>
   This subscription's contact: Rotterdam Harbour<br>
@@ -26,4 +23,3 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
     Accepted new 5G Slice: Rotterdam Terminal<br>
     This subscription's contact: Schiphol Airport<br>
     Accept Now</p></td></tr></table>
-```
