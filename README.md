@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome Rain
 
-You can use the [editor on GitHub](https://github.com/rainleander/rahm/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+<table width="100%"><tr><td>5429<br>
+  Issued Certificates</td>
+  <td><p>4927<br>
+    Active Devices</p></td>
+  <td><p>3<br>
+    Active Private LTE</p></td>
+  <td><p>12<br>
+    Active WiFi Networks</p></td>
+  <td><p>9<br>
+    Active 5G Slices</p></td>
+  <td><p>3482<br>
+    Active Sessions</p></td></tr></table>
+    
+## Important Information
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
