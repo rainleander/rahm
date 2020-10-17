@@ -5,7 +5,7 @@
 This is the Private LTE Gateway Demo Portal for the Equinix Virtual Hackathon 2020.
 
 ## Usage
-To use the Slate theme:
+To use LTE Gateway Demo Portal:
 
 1. Disable the Global Protect VPN, upload these files to GitHub, [enable GitHub pages](https://guides.github.com/features/pages/#:~:text=If%20you%20scroll%20down%20on,the%20top%20of%20the%20page.), and view the portal via https://account-name.github.io/repository-name/
 
